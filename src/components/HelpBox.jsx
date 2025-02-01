@@ -13,6 +13,8 @@ function HelpBox({ title, text }) {
 
 // testing the skip 
 
+// testig the skip with keyword
+
 HelpBox.propTypes = {
   title: string,
   text: string,
