@@ -11,6 +11,8 @@ function HelpBox({ title, text }) {
   );
 }
 
+// testing the skip 
+
 HelpBox.propTypes = {
   title: string,
   text: string,
